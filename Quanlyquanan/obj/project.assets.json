@@ -3233,19 +3233,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+    "C:\\Users\\PC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Win form\\BaoCaoCuoiKi\\winform_cuoi_ki\\Quanlyquanan\\Quanlyquanan.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\Quanlyquanan.csproj",
       "projectName": "Quanlyquanan",
-      "projectPath": "D:\\Win form\\BaoCaoCuoiKi\\winform_cuoi_ki\\Quanlyquanan\\Quanlyquanan.csproj",
-      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\Win form\\BaoCaoCuoiKi\\winform_cuoi_ki\\Quanlyquanan\\obj\\",
+      "projectPath": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\Quanlyquanan.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3265,6 +3265,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -3331,7 +3336,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   },

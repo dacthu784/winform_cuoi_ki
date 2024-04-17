@@ -1,69 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\download\\Winform-cuoiky-main\\Winform-cuoiky-main\\",
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|d:\\download\\winform-cuoiky-main\\winform-cuoiky-main\\quanlyquanan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|c:\\users\\pc\\desktop\\winform_cuoi_ki\\quanlyquanan\\login\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|solutionrelative:quanlyquanan\\login\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|c:\\users\\pc\\desktop\\winform_cuoi_ki\\quanlyquanan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|solutionrelative:quanlyquanan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|d:\\download\\winform-cuoiky-main\\winform-cuoiky-main\\quanlyquanan\\ftablemanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|c:\\users\\pc\\desktop\\winform_cuoi_ki\\quanlyquanan\\ftablemanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|solutionrelative:quanlyquanan\\ftablemanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|d:\\download\\winform-cuoiky-main\\winform-cuoiky-main\\quanlyquanan\\quanlyquanan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|c:\\users\\pc\\desktop\\winform_cuoi_ki\\quanlyquanan\\quanlyquanan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|solutionrelative:quanlyquanan\\quanlyquanan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|d:\\download\\winform-cuoiky-main\\winform-cuoiky-main\\quanlyquanan\\model\\qlquancafecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|c:\\users\\pc\\desktop\\winform_cuoi_ki\\quanlyquanan\\model\\qlquancafecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|solutionrelative:quanlyquanan\\model\\qlquancafecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|d:\\download\\winform-cuoiky-main\\winform-cuoiky-main\\quanlyquanan\\model\\billinfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|c:\\users\\pc\\desktop\\winform_cuoi_ki\\quanlyquanan\\model\\billinfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|solutionrelative:quanlyquanan\\model\\billinfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|d:\\download\\winform-cuoiky-main\\winform-cuoiky-main\\quanlyquanan\\flogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|c:\\users\\pc\\desktop\\winform_cuoi_ki\\quanlyquanan\\flogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|solutionrelative:quanlyquanan\\flogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|d:\\download\\winform-cuoiky-main\\winform-cuoiky-main\\quanlyquanan\\fadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|c:\\users\\pc\\desktop\\winform_cuoi_ki\\quanlyquanan\\fadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|solutionrelative:quanlyquanan\\fadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|d:\\download\\winform-cuoiky-main\\winform-cuoiky-main\\quanlyquanan\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|c:\\users\\pc\\desktop\\winform_cuoi_ki\\quanlyquanan\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|solutionrelative:quanlyquanan\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|d:\\download\\winform-cuoiky-main\\winform-cuoiky-main\\quanlyquanan\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|c:\\users\\pc\\desktop\\winform_cuoi_ki\\quanlyquanan\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|solutionrelative:quanlyquanan\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|d:\\download\\winform-cuoiky-main\\winform-cuoiky-main\\quanlyquanan\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|c:\\users\\pc\\desktop\\winform_cuoi_ki\\quanlyquanan\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|solutionrelative:quanlyquanan\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|d:\\download\\winform-cuoiky-main\\winform-cuoiky-main\\quanlyquanan\\model\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|c:\\users\\pc\\desktop\\winform_cuoi_ki\\quanlyquanan\\model\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|solutionrelative:quanlyquanan\\model\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|d:\\download\\winform-cuoiky-main\\winform-cuoiky-main\\quanlyquanan\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|c:\\users\\pc\\desktop\\winform_cuoi_ki\\quanlyquanan\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|solutionrelative:quanlyquanan\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|d:\\download\\winform-cuoiky-main\\winform-cuoiky-main\\quanlyquanan\\model\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|c:\\users\\pc\\desktop\\winform_cuoi_ki\\quanlyquanan\\model\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|solutionrelative:quanlyquanan\\model\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|d:\\download\\winform-cuoiky-main\\winform-cuoiky-main\\quanlyquanan\\model\\typeaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|c:\\users\\pc\\desktop\\winform_cuoi_ki\\quanlyquanan\\model\\typeaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|solutionrelative:quanlyquanan\\model\\typeaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|d:\\download\\winform-cuoiky-main\\winform-cuoiky-main\\quanlyquanan\\model\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|c:\\users\\pc\\desktop\\winform_cuoi_ki\\quanlyquanan\\model\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|solutionrelative:quanlyquanan\\model\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|d:\\download\\winform-cuoiky-main\\winform-cuoiky-main\\quanlyquanan\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|c:\\users\\pc\\desktop\\winform_cuoi_ki\\quanlyquanan\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3859FFBC-8DC2-4620-814E-5FB00F0346F8}|Quanlyquanan\\Quanlyquanan.csproj|solutionrelative:quanlyquanan\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -74,172 +78,174 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Bill.cs",
-              "DocumentMoniker": "D:\\download\\Winform-cuoiky-main\\Winform-cuoiky-main\\Quanlyquanan\\Model\\Bill.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\Model\\Bill.cs",
               "RelativeDocumentMoniker": "Quanlyquanan\\Model\\Bill.cs",
-              "ToolTip": "D:\\download\\Winform-cuoiky-main\\Winform-cuoiky-main\\Quanlyquanan\\Model\\Bill.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\Model\\Bill.cs",
               "RelativeToolTip": "Quanlyquanan\\Model\\Bill.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAxwA0AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-17T07:52:06.787Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ftablemanager.Designer.cs",
-              "DocumentMoniker": "D:\\download\\Winform-cuoiky-main\\Winform-cuoiky-main\\Quanlyquanan\\ftablemanager.Designer.cs",
-              "RelativeDocumentMoniker": "Quanlyquanan\\ftablemanager.Designer.cs",
-              "ToolTip": "D:\\download\\Winform-cuoiky-main\\Winform-cuoiky-main\\Quanlyquanan\\ftablemanager.Designer.cs",
-              "RelativeToolTip": "Quanlyquanan\\ftablemanager.Designer.cs",
-              "ViewState": "AQIAAHgAAAAAAAAAAAAIwJIAAAAuAAAA",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\Login\\Class1.cs",
+              "RelativeDocumentMoniker": "Quanlyquanan\\Login\\Class1.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\Login\\Class1.cs",
+              "RelativeToolTip": "Quanlyquanan\\Login\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T08:10:26.638Z",
+              "WhenOpened": "2024-04-17T08:46:10.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Quanlyquanan",
-              "DocumentMoniker": "D:\\download\\Winform-cuoiky-main\\Winform-cuoiky-main\\Quanlyquanan\\Quanlyquanan.csproj",
-              "RelativeDocumentMoniker": "Quanlyquanan\\Quanlyquanan.csproj",
-              "ToolTip": "D:\\download\\Winform-cuoiky-main\\Winform-cuoiky-main\\Quanlyquanan\\Quanlyquanan.csproj",
-              "RelativeToolTip": "Quanlyquanan\\Quanlyquanan.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-17T08:10:17.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "fLogin.Designer.cs",
-              "DocumentMoniker": "D:\\download\\Winform-cuoiky-main\\Winform-cuoiky-main\\Quanlyquanan\\fLogin.Designer.cs",
-              "RelativeDocumentMoniker": "Quanlyquanan\\fLogin.Designer.cs",
-              "ToolTip": "D:\\download\\Winform-cuoiky-main\\Winform-cuoiky-main\\Quanlyquanan\\fLogin.Designer.cs",
-              "RelativeToolTip": "Quanlyquanan\\fLogin.Designer.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwCAAAAAXAAAA",
+              "Title": "ftablemanager.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\ftablemanager.Designer.cs",
+              "RelativeDocumentMoniker": "Quanlyquanan\\ftablemanager.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\ftablemanager.Designer.cs",
+              "RelativeToolTip": "Quanlyquanan\\ftablemanager.Designer.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAIwJIAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T08:09:52.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "fAdmin.Designer.cs",
-              "DocumentMoniker": "D:\\download\\Winform-cuoiky-main\\Winform-cuoiky-main\\Quanlyquanan\\fAdmin.Designer.cs",
-              "RelativeDocumentMoniker": "Quanlyquanan\\fAdmin.Designer.cs",
-              "ToolTip": "D:\\download\\Winform-cuoiky-main\\Winform-cuoiky-main\\Quanlyquanan\\fAdmin.Designer.cs",
-              "RelativeToolTip": "Quanlyquanan\\fAdmin.Designer.cs",
-              "ViewState": "AQIAAJMCAAAAAAAAAAAgwKQCAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T08:09:28.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ftablemanager.cs",
-              "DocumentMoniker": "D:\\download\\Winform-cuoiky-main\\Winform-cuoiky-main\\Quanlyquanan\\ftablemanager.cs",
-              "RelativeDocumentMoniker": "Quanlyquanan\\ftablemanager.cs",
-              "ToolTip": "D:\\download\\Winform-cuoiky-main\\Winform-cuoiky-main\\Quanlyquanan\\ftablemanager.cs",
-              "RelativeToolTip": "Quanlyquanan\\ftablemanager.cs",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAYwFoAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T08:09:24.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\download\\Winform-cuoiky-main\\Winform-cuoiky-main\\Quanlyquanan\\Model\\Category.cs",
-              "RelativeDocumentMoniker": "Quanlyquanan\\Model\\Category.cs",
-              "ToolTip": "D:\\download\\Winform-cuoiky-main\\Winform-cuoiky-main\\Quanlyquanan\\Model\\Category.cs",
-              "RelativeToolTip": "Quanlyquanan\\Model\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T07:51:58.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BillInfor.cs",
-              "DocumentMoniker": "D:\\download\\Winform-cuoiky-main\\Winform-cuoiky-main\\Quanlyquanan\\Model\\BillInfor.cs",
-              "RelativeDocumentMoniker": "Quanlyquanan\\Model\\BillInfor.cs",
-              "ToolTip": "D:\\download\\Winform-cuoiky-main\\Winform-cuoiky-main\\Quanlyquanan\\Model\\BillInfor.cs",
-              "RelativeToolTip": "Quanlyquanan\\Model\\BillInfor.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAIA1wA0AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T07:51:25.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TypeAccount.cs",
-              "DocumentMoniker": "D:\\download\\Winform-cuoiky-main\\Winform-cuoiky-main\\Quanlyquanan\\Model\\TypeAccount.cs",
-              "RelativeDocumentMoniker": "Quanlyquanan\\Model\\TypeAccount.cs",
-              "ToolTip": "D:\\download\\Winform-cuoiky-main\\Winform-cuoiky-main\\Quanlyquanan\\Model\\TypeAccount.cs",
-              "RelativeToolTip": "Quanlyquanan\\Model\\TypeAccount.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T07:50:34.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Food.cs",
-              "DocumentMoniker": "D:\\download\\Winform-cuoiky-main\\Winform-cuoiky-main\\Quanlyquanan\\Model\\Food.cs",
-              "RelativeDocumentMoniker": "Quanlyquanan\\Model\\Food.cs",
-              "ToolTip": "D:\\download\\Winform-cuoiky-main\\Winform-cuoiky-main\\Quanlyquanan\\Model\\Food.cs",
-              "RelativeToolTip": "Quanlyquanan\\Model\\Food.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T07:49:25.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T08:10:26.638Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "QlquanCafeContext.cs",
-              "DocumentMoniker": "D:\\download\\Winform-cuoiky-main\\Winform-cuoiky-main\\Quanlyquanan\\Model\\QlquanCafeContext.cs",
-              "RelativeDocumentMoniker": "Quanlyquanan\\Model\\QlquanCafeContext.cs",
-              "ToolTip": "D:\\download\\Winform-cuoiky-main\\Winform-cuoiky-main\\Quanlyquanan\\Model\\QlquanCafeContext.cs",
-              "RelativeToolTip": "Quanlyquanan\\Model\\QlquanCafeContext.cs",
-              "ViewState": "AQIAAGIAAAAAAAAAAAApwGsAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T07:47:07.228Z",
-              "EditorCaption": ""
+              "Title": "Quanlyquanan.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\Quanlyquanan.csproj",
+              "RelativeDocumentMoniker": "Quanlyquanan\\Quanlyquanan.csproj",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\Quanlyquanan.csproj",
+              "RelativeToolTip": "Quanlyquanan\\Quanlyquanan.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-17T08:10:17.892Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "fLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\fLogin.Designer.cs",
+              "RelativeDocumentMoniker": "Quanlyquanan\\fLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\fLogin.Designer.cs",
+              "RelativeToolTip": "Quanlyquanan\\fLogin.Designer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:09:52.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "fAdmin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\fAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "Quanlyquanan\\fAdmin.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\fAdmin.Designer.cs",
+              "RelativeToolTip": "Quanlyquanan\\fAdmin.Designer.cs",
+              "ViewState": "AQIAAJMCAAAAAAAAAAAgwKQCAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:09:28.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ftablemanager.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\ftablemanager.cs",
+              "RelativeDocumentMoniker": "Quanlyquanan\\ftablemanager.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\ftablemanager.cs",
+              "RelativeToolTip": "Quanlyquanan\\ftablemanager.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAYwFoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:09:24.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "Quanlyquanan\\Model\\Category.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\Model\\Category.cs",
+              "RelativeToolTip": "Quanlyquanan\\Model\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T07:51:58.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BillInfor.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\Model\\BillInfor.cs",
+              "RelativeDocumentMoniker": "Quanlyquanan\\Model\\BillInfor.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\Model\\BillInfor.cs",
+              "RelativeToolTip": "Quanlyquanan\\Model\\BillInfor.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAIA1wA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T07:51:25.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TypeAccount.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\Model\\TypeAccount.cs",
+              "RelativeDocumentMoniker": "Quanlyquanan\\Model\\TypeAccount.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\Model\\TypeAccount.cs",
+              "RelativeToolTip": "Quanlyquanan\\Model\\TypeAccount.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T07:50:34.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\Model\\Food.cs",
+              "RelativeDocumentMoniker": "Quanlyquanan\\Model\\Food.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\Model\\Food.cs",
+              "RelativeToolTip": "Quanlyquanan\\Model\\Food.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T07:49:25.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QlquanCafeContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\Model\\QlquanCafeContext.cs",
+              "RelativeDocumentMoniker": "Quanlyquanan\\Model\\QlquanCafeContext.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\Model\\QlquanCafeContext.cs",
+              "RelativeToolTip": "Quanlyquanan\\Model\\QlquanCafeContext.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAApwGsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T07:47:07.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\download\\Winform-cuoiky-main\\Winform-cuoiky-main\\Quanlyquanan\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\Program.cs",
               "RelativeDocumentMoniker": "Quanlyquanan\\Program.cs",
-              "ToolTip": "D:\\download\\Winform-cuoiky-main\\Winform-cuoiky-main\\Quanlyquanan\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\Program.cs",
               "RelativeToolTip": "Quanlyquanan\\Program.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAA7wBwAAAAvAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAkwBsAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T13:28:42.816Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "fAdmin.cs [Design]",
-              "DocumentMoniker": "D:\\download\\Winform-cuoiky-main\\Winform-cuoiky-main\\Quanlyquanan\\fAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\fAdmin.cs",
               "RelativeDocumentMoniker": "Quanlyquanan\\fAdmin.cs",
-              "ToolTip": "D:\\download\\Winform-cuoiky-main\\Winform-cuoiky-main\\Quanlyquanan\\fAdmin.cs [Design]",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\fAdmin.cs [Design]",
               "RelativeToolTip": "Quanlyquanan\\fAdmin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T13:28:42.989Z",
@@ -247,42 +253,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "fAdmin.cs",
-              "DocumentMoniker": "D:\\download\\Winform-cuoiky-main\\Winform-cuoiky-main\\Quanlyquanan\\fAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\fAdmin.cs",
               "RelativeDocumentMoniker": "Quanlyquanan\\fAdmin.cs",
-              "ToolTip": "D:\\download\\Winform-cuoiky-main\\Winform-cuoiky-main\\Quanlyquanan\\fAdmin.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\fAdmin.cs",
               "RelativeToolTip": "Quanlyquanan\\fAdmin.cs",
               "ViewState": "AQIAADEBAAAAAAAAAAAgwEEBAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T13:28:42.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T13:28:42.994Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Table.cs",
-              "DocumentMoniker": "D:\\download\\Winform-cuoiky-main\\Winform-cuoiky-main\\Quanlyquanan\\Model\\Table.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\Model\\Table.cs",
               "RelativeDocumentMoniker": "Quanlyquanan\\Model\\Table.cs",
-              "ToolTip": "D:\\download\\Winform-cuoiky-main\\Winform-cuoiky-main\\Quanlyquanan\\Model\\Table.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\Model\\Table.cs",
               "RelativeToolTip": "Quanlyquanan\\Model\\Table.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T13:28:42.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T13:28:42.999Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "fLogin.cs",
-              "DocumentMoniker": "D:\\download\\Winform-cuoiky-main\\Winform-cuoiky-main\\Quanlyquanan\\fLogin.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\fLogin.cs",
               "RelativeDocumentMoniker": "Quanlyquanan\\fLogin.cs",
-              "ToolTip": "D:\\download\\Winform-cuoiky-main\\Winform-cuoiky-main\\Quanlyquanan\\fLogin.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\winform_cuoi_ki\\Quanlyquanan\\fLogin.cs",
               "RelativeToolTip": "Quanlyquanan\\fLogin.cs",
               "ViewState": "AQIAACUAAAAAAAAAAAAgwDYAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T13:28:43.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T13:28:43.002Z"
             }
           ]
         }

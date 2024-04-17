@@ -1,0 +1,276 @@
+D:\clone\QLQuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Quanlyquanan.exe
+D:\clone\QLQuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Quanlyquanan.deps.json
+D:\clone\QLQuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Quanlyquanan.runtimeconfig.json
+D:\clone\QLQuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Quanlyquanan.dll
+D:\clone\QLQuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Quanlyquanan.pdb
+D:\clone\QLQuanAn\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.csproj.AssemblyReference.cache
+D:\clone\QLQuanAn\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.Form1.resources
+D:\clone\QLQuanAn\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.ftablemanager.resources
+D:\clone\QLQuanAn\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.csproj.GenerateResource.cache
+D:\clone\QLQuanAn\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.GeneratedMSBuildEditorConfig.editorconfig
+D:\clone\QLQuanAn\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.AssemblyInfoInputs.cache
+D:\clone\QLQuanAn\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.AssemblyInfo.cs
+D:\clone\QLQuanAn\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.csproj.CoreCompileInputs.cache
+D:\clone\QLQuanAn\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.dll
+D:\clone\QLQuanAn\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\refint\Quanlyquanan.dll
+D:\clone\QLQuanAn\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.pdb
+D:\clone\QLQuanAn\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.genruntimeconfig.cache
+D:\clone\QLQuanAn\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\ref\Quanlyquanan.dll
+D:\clone\QLQuanAn\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.fAccount.resources
+D:\clone\QLQuanAn\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.fAdmin.resources
+D:\bai_tap\LT_On_Window\QLQA_B1\QLquananvat\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Quanlyquanan.exe
+D:\bai_tap\LT_On_Window\QLQA_B1\QLquananvat\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Quanlyquanan.deps.json
+D:\bai_tap\LT_On_Window\QLQA_B1\QLquananvat\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Quanlyquanan.runtimeconfig.json
+D:\bai_tap\LT_On_Window\QLQA_B1\QLquananvat\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Quanlyquanan.dll
+D:\bai_tap\LT_On_Window\QLQA_B1\QLquananvat\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Quanlyquanan.pdb
+D:\bai_tap\LT_On_Window\QLQA_B1\QLquananvat\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.fAccount.resources
+D:\bai_tap\LT_On_Window\QLQA_B1\QLquananvat\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.fAdmin.resources
+D:\bai_tap\LT_On_Window\QLQA_B1\QLquananvat\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.Form1.resources
+D:\bai_tap\LT_On_Window\QLQA_B1\QLquananvat\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.ftablemanager.resources
+D:\bai_tap\LT_On_Window\QLQA_B1\QLquananvat\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.Properties.Resources.resources
+D:\bai_tap\LT_On_Window\QLQA_B1\QLquananvat\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.csproj.GenerateResource.cache
+D:\bai_tap\LT_On_Window\QLQA_B1\QLquananvat\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.GeneratedMSBuildEditorConfig.editorconfig
+D:\bai_tap\LT_On_Window\QLQA_B1\QLquananvat\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.AssemblyInfoInputs.cache
+D:\bai_tap\LT_On_Window\QLQA_B1\QLquananvat\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.AssemblyInfo.cs
+D:\bai_tap\LT_On_Window\QLQA_B1\QLquananvat\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.csproj.CoreCompileInputs.cache
+D:\bai_tap\LT_On_Window\QLQA_B1\QLquananvat\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.sourcelink.json
+D:\bai_tap\LT_On_Window\QLQA_B1\QLquananvat\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.dll
+D:\bai_tap\LT_On_Window\QLQA_B1\QLquananvat\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\refint\Quanlyquanan.dll
+D:\bai_tap\LT_On_Window\QLQA_B1\QLquananvat\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.pdb
+D:\bai_tap\LT_On_Window\QLQA_B1\QLquananvat\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.genruntimeconfig.cache
+D:\bai_tap\LT_On_Window\QLQA_B1\QLquananvat\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\ref\Quanlyquanan.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QLquananvat\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Quanlyquanan.exe
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QLquananvat\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Quanlyquanan.deps.json
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QLquananvat\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Quanlyquanan.runtimeconfig.json
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QLquananvat\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Quanlyquanan.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QLquananvat\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Quanlyquanan.pdb
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QLquananvat\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.fAccount.resources
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QLquananvat\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.fAdmin.resources
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QLquananvat\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.Form1.resources
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QLquananvat\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.ftablemanager.resources
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QLquananvat\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.Properties.Resources.resources
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QLquananvat\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.csproj.GenerateResource.cache
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QLquananvat\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QLquananvat\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.AssemblyInfoInputs.cache
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QLquananvat\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.AssemblyInfo.cs
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QLquananvat\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.csproj.CoreCompileInputs.cache
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QLquananvat\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.sourcelink.json
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QLquananvat\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QLquananvat\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\refint\Quanlyquanan.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QLquananvat\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.pdb
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QLquananvat\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.genruntimeconfig.cache
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QLquananvat\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\ref\Quanlyquanan.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Quanlyquanan.exe
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Quanlyquanan.deps.json
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Quanlyquanan.runtimeconfig.json
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Quanlyquanan.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Quanlyquanan.pdb
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.csproj.AssemblyReference.cache
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.fAccount.resources
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.fAdmin.resources
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.ftablemanager.resources
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.Properties.Resources.resources
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.csproj.GenerateResource.cache
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.AssemblyInfoInputs.cache
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.AssemblyInfo.cs
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.csproj.CoreCompileInputs.cache
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.sourcelink.json
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.csproj.CopyComplete
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\refint\Quanlyquanan.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.pdb
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.genruntimeconfig.cache
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\ref\Quanlyquanan.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\System.Text.Encodings.Web.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\System.Text.Json.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.fLogin.resources
+C:\Users\huyvu\OneDrive\Tài liệu\GitHub\QuanAn\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\BCrypt.Net.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Quanlyquanan.exe
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Quanlyquanan.deps.json
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Quanlyquanan.runtimeconfig.json
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Quanlyquanan.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Quanlyquanan.pdb
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\BCrypt.Net.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\System.Text.Encodings.Web.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\System.Text.Json.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\bin\Debug\net7.0-windows\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.csproj.AssemblyReference.cache
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.fAccount.resources
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.fAdmin.resources
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.fLogin.resources
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.ftablemanager.resources
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.Properties.Resources.resources
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.csproj.GenerateResource.cache
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.AssemblyInfoInputs.cache
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.AssemblyInfo.cs
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.csproj.CoreCompileInputs.cache
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.csproj.CopyComplete
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\refint\Quanlyquanan.dll
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.pdb
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.genruntimeconfig.cache
+C:\Users\nthai\OneDrive\Desktop\Quanlyquanan\Quanlyquanan\obj\Debug\net7.0-windows\ref\Quanlyquanan.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Quanlyquanan.exe
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Quanlyquanan.deps.json
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Quanlyquanan.runtimeconfig.json
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Quanlyquanan.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Quanlyquanan.pdb
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\BCrypt.Net.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Humanizer.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\System.Text.Encodings.Web.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\System.Text.Json.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\bin\Debug\net7.0-windows\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.csproj.AssemblyReference.cache
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.fAccount.resources
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.fAdmin.resources
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.fLogin.resources
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.ftablemanager.resources
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.Properties.Resources.resources
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.csproj.GenerateResource.cache
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.GeneratedMSBuildEditorConfig.editorconfig
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.AssemblyInfoInputs.cache
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.AssemblyInfo.cs
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.csproj.CoreCompileInputs.cache
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyqu.9870A579.Up2Date
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\obj\Debug\net7.0-windows\refint\Quanlyquanan.dll
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.pdb
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\obj\Debug\net7.0-windows\Quanlyquanan.genruntimeconfig.cache
+D:\download\Winform-cuoiky-main\Winform-cuoiky-main\Quanlyquanan\obj\Debug\net7.0-windows\ref\Quanlyquanan.dll
